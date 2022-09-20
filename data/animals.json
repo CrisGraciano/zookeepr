@@ -15,7 +15,7 @@
     "id": "1",
     "name": "Terry",
     "species": "gorilla",
-    "diet": "folivore",
+    "diet": "omnivore",
     "personalityTraits": [
     "anxious",
     "goofy"
@@ -25,7 +25,7 @@
     "id": "2",
     "name": "Erica",
     "species": "gorilla",
-    "diet": "folivore",
+    "diet": "omnivore",
     "personalityTraits": [
     "quirky",
     "rash"
