@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/CrisGraciano/zookeepr/issues"
   },
-  "homepage": "https://github.com/CrisGraciano/zookeepr#readme"
+  "homepage": "https://github.com/CrisGraciano/zookeepr#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
 }
